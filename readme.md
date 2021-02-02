@@ -51,3 +51,8 @@ ___
 ### *src/routes/mvoies.js*
 
 ![Texto alternativo](/codigo_ejemplo/code-snapshot_3.png)
+
+# 3) Configuracion de las rutas se agrega PUT, DELETE
+### *src/routes/mvoies.js*
+
+![Texto alternativo](/codigo_ejemplo/code-snapshot_4.png)
